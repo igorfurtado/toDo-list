@@ -32,5 +32,6 @@ Essa aplicação foi desenvolvida com React.js, utilizando de Hooks para acessar
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![toDo homePage](https://user-images.githubusercontent.com/70289587/143590212-2a6d4fbf-3e52-4341-8ad9-551f5e6dedab.png)
+![toDo addItem](https://user-images.githubusercontent.com/70289587/143590223-58e350e9-a564-4ecf-a1b0-b30125622b10.png)
 
